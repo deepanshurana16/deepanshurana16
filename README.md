@@ -4,9 +4,9 @@
 <!-- (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif") -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshurana16&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshurana16" /> </p>
 
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working on **REACTJS**
 
-- 🌱 I’m currently learning **RESTAPI'S**
+- 🌱 I’m currently learning **DJANGO**
 
 - 💬 Ask me about **Front-end and Backend Development**
 
